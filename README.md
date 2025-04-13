@@ -67,3 +67,5 @@ Step 15 – View your VMs in the Azure dashboard.
 Step 16 – After removing your virtual machines, also remove the resources to avoid future charges.
 
 ![Image](https://github.com/user-attachments/assets/4d8e5847-2e41-4bbc-9c30-5304664544db)
+
+Thank you for visiting my tutorial on GitHub! I hope you found it helpful. Feel free to reach out if you have any questions or feedback.
