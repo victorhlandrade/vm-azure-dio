@@ -6,7 +6,7 @@ I will demonstrate step by step how to create virtual machines on Azure. In this
 Step 1 – Select the hamburger menu > Virtual Machines > Create > Azure Virtual Machine.
 img1.png
 
-
+![Image](https://github.com/user-attachments/assets/e04d6f55-3b91-4be0-b2b7-626807b0d073)
 
 
 
